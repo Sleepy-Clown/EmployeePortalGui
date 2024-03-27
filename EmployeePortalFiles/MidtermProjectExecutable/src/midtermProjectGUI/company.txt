@@ -1,0 +1,7 @@
+5,King,10000,30000.0
+4,Luz Noceda,67890,26000.0
+3,Willow Park,54321,24000.0
+3,Augustus Porter,09876,23000.0
+4,Amity Blight,12345,25000.0
+2,Hunter Deamonne,34567,22000.0
+2,Edric Blight,22835,15000.0
