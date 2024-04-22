@@ -1,3 +1,4 @@
+//Treat this file as the main file. Anytime the app is ran, it should start from here.
 package midtermProjectGUI;
 
 import java.awt.EventQueue;
